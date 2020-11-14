@@ -4,7 +4,7 @@ Prod Scripts for network security automation using Python
 Script Names and Functions
 ============================
 -----------
-1. ipsecPskVpnTunnel.py
+1. ipsecPskVpnTunnel.py - Create Pre-Shared-Key IPSEC VPN Tunnel between two Cisco ASA's.
 -----------
 - ipsecPskVpnTunnel.py is a Python script that configures a fully functioning Pre-Shared-Key IPSEC VPN Tunnel between two Cisco ASA firewalls. 
 
