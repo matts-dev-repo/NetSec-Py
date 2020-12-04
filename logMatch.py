@@ -7,11 +7,6 @@ csv_f = csv.reader(f)
 csv_f2 = csv.reader(f2)
 
 
-
-
-
-
-
 #creates string of date to parse through xml dates using format mm/dd/yy
 def incrementDate():
     startMonth = 6
